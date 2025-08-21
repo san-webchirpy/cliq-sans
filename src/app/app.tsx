@@ -63,8 +63,6 @@ const MESSAGE_TEMPLATE = `{{#each projects}}📅Date: {{../date}}
 ⚠️ *Blockers / Dependencies:* null
 {{/if}}
 
-⚠️ *Blockers / Dependencies:* null
-
 {{#if notes}}
 📝 *Notes / Comments:*
  - {{notes}} 
